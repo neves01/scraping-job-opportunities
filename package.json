@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^13.4.0",
+    "scrapyard": "^0.1.6"
+  }
+}
