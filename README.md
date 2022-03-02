@@ -11,7 +11,7 @@ Inside of the Main block code (index.js), choose your site. The options are:
 Execute from the terminal: `node index.js`.
 
 # Output
-The output will be a JSON file with the following attributes: job, description, date, schooling, company, and local.
+The output will be a JSON format data with the following attributes: job, description, date, schooling, company, and local.
 
 # What was needed?
 - [puppeteer](https://www.npmjs.com/package/puppeteer)
